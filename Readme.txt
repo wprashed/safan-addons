@@ -1,5 +1,5 @@
 ﻿=== Safan Elementor Addons ===
-Contributors: largbasket, shails
+Contributors: largbasket
 Donate link: https://wprashed.com
 Tags: elementor, elementor widget, elementor extention, elementor content block, elementor content widget
 Requires at least: 3.0.1
